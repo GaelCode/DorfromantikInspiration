@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: fr.iutfbleau.dorfmantik.Lancement
-Class-Path: mariadb-java-client-2.5.3.jar
